@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-07T05:18:02Z",
+  "lastUpdated": "2026-04-08T00:00:00Z",
   "portfolio": {
-    "totalShares": 119,
-    "avgPriceUsd": 11.53,
-    "cashKrw": 1200000
+    "totalShares": 121,
+    "avgPriceUsd": 11.48,
+    "cashKrw": 1175033
   },
   "entries": [
     {
@@ -69,6 +69,16 @@
       "action": "HOLD",
       "executed": false,
       "memo": "단기 저항선 도달. 4일 연속 상승 피로도 누적. 현금 100% 유지."
+    },
+    {
+      "id": 8,
+      "date": "2026-04-08",
+      "stockPrice": 8.32,
+      "exchangeRate": 1500.44,
+      "action": "BUY",
+      "amount": 2,
+      "executed": true,
+      "memo": "ASI 파트너십 호재 vs 내부자 매도 악재. $8.30대 눌림목에서 2주 기계적 매수 집행."
     }
   ]
 }
