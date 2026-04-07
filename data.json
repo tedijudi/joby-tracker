@@ -1,0 +1,74 @@
+{
+  "lastUpdated": "2026-04-07T05:18:02Z",
+  "portfolio": {
+    "totalShares": 119,
+    "avgPriceUsd": 11.53,
+    "cashKrw": 1200000
+  },
+  "entries": [
+    {
+      "id": 1,
+      "date": "2026-03-25",
+      "stockPrice": 9.24,
+      "exchangeRate": 1340.5,
+      "action": "HOLD",
+      "executed": false,
+      "memo": "초기 포트폴리오 세팅"
+    },
+    {
+      "id": 2,
+      "date": "2026-03-27",
+      "stockPrice": 8.4,
+      "exchangeRate": 1345.2,
+      "action": "HOLD",
+      "executed": false,
+      "memo": "하락 추세 관망"
+    },
+    {
+      "id": 3,
+      "date": "2026-04-01",
+      "stockPrice": 7.95,
+      "exchangeRate": 1352.1,
+      "action": "BUY",
+      "amount": 2,
+      "executed": false,
+      "memo": "실적 호조 (실행 안함)"
+    },
+    {
+      "id": 4,
+      "date": "2026-04-02",
+      "stockPrice": 8.26,
+      "exchangeRate": 1350.8,
+      "action": "HOLD",
+      "executed": false,
+      "memo": "반등 관망"
+    },
+    {
+      "id": 5,
+      "date": "2026-04-03",
+      "stockPrice": 8.29,
+      "exchangeRate": 1355,
+      "action": "HOLD",
+      "executed": false,
+      "memo": "매크로 악재 (HMG 리포트)"
+    },
+    {
+      "id": 6,
+      "date": "2026-04-06",
+      "stockPrice": 8.5,
+      "exchangeRate": 1506.36,
+      "action": "HOLD",
+      "executed": false,
+      "memo": "내부자 매도 공시"
+    },
+    {
+      "id": 7,
+      "date": "2026-04-07",
+      "stockPrice": 8.71,
+      "exchangeRate": 1508.49,
+      "action": "HOLD",
+      "executed": false,
+      "memo": "단기 저항선 도달. 4일 연속 상승 피로도 누적. 현금 100% 유지."
+    }
+  ]
+}
