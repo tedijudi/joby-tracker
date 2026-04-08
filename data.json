@@ -83,7 +83,7 @@
       "stockPrice": 8.785,
       "exchangeRate": 1473.75,
       "aiAction": "BUY",
-      "myAction": "BUY",
+      "myAction": "HOLD",
       "amount": 2,
       "executed": false,
       "memo": "[AI 타점 실패] 미-이란 임시 휴전으로 시장 안도 랠리 발생. 주가 급등(+5.59%)으로 $8.32 지정가 매수 미체결. 추격 매수 없이 관망 전환."
