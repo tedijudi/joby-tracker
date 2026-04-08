@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T23:26:56.523Z",
+  "lastUpdated": "2026-04-09T00:00:00Z",
   "portfolio": {
     "totalShares": 119,
     "avgPriceUsd": 11.53,
@@ -78,26 +78,15 @@
       "memo": "단기 저항선 도달. 4일 연속 상승 피로도 누적. 현금 100% 유지."
     },
     {
-      "date": "2026-04-08",
-      "stockPrice": 8.32,
-      "exchangeRate": 1500.44,
-      "aiAction": "BUY",
-      "myAction": "PENDING",
-      "amount": 2,
-      "executed": false,
-      "memo": "[AI 전략] ASI 파트너십 호재 확인. 오늘 밤 $8.30대 눌림목에서 2주 기계적 매수 권장. (실행 대기중)",
-      "id": 8
-    },
-    {
+      "id": 8,
       "date": "2026-04-08",
       "stockPrice": 8.785,
       "exchangeRate": 1473.75,
-      "aiAction": "BUY",
+      "aiAction": "HOLD",
       "myAction": "HOLD",
       "amount": 0,
-      "executed": false,
-      "memo": "[매수 미체결] 미-이란 2주 임시 휴전 합의로 시장 안도 랠리 발생. 주가 급등(+5.59%)으로 $8.32 지정가 매수 실패. 추격 매수 없이 관망 유지.",
-      "id": 9
+      "executed": true,
+      "memo": "[매수 미체결] 미-이란 2주 임시 휴전 합의로 시장 안도 랠리 발생. 주가 급등(+5.59%)으로 $8.32 지정가 매수 실패. 추격 매수 없이 관망 유지."
     }
   ]
 }
