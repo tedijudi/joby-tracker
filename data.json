@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T01:46:28.986Z",
+  "lastUpdated": "2026-04-09T23:46:29.297Z",
   "portfolio": {
     "totalShares": 119,
     "avgPriceUsd": 11.53,
@@ -98,6 +98,17 @@
       "executed": false,
       "memo": "[AI 전략] 단기 급등(+5.59%) 및 프리마켓 $9 돌파 시도 중. 내부자 매도 물량 저항 예상. 추격 매수 금지 및 관망 권장. (실행 대기중)",
       "id": 9
+    },
+    {
+      "date": "2026-04-09",
+      "stockPrice": 8.66,
+      "exchangeRate": 1474.68,
+      "aiAction": "HOLD",
+      "myAction": "PENDING",
+      "amount": 0,
+      "executed": false,
+      "memo": "[AI 전략] CEO 내부자 매도 공시 및 $9.00 저항선 확인으로 주가 하락 반전. $8.30대 재진입 시까지 관망 유지. (실행 대기중)",
+      "id": 10
     }
   ]
 }
