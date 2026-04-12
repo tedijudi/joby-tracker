@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T23:57:42.171Z",
+  "lastUpdated": "2026-04-11T00:00:00Z",
   "portfolio": {
     "totalShares": 119,
     "avgPriceUsd": 11.53,
@@ -94,21 +94,21 @@
       "stockPrice": 8.66,
       "exchangeRate": 1474.68,
       "aiAction": "HOLD",
-      "myAction": "PENDING",
+      "myAction": "HOLD",
       "amount": 0,
-      "executed": false,
-      "memo": "[AI 전략] CEO 내부자 매도 공시 및 $9.00 저항선 확인으로 주가 하락 반전. $8.30대 재진입 시까지 관망 유지. (실행 대기중)"
+      "executed": true,
+      "memo": "CEO 내부자 매도 공시 및 $9.00 저항선 확인으로 주가 하락 반전. 관망 유지 완료."
     },
     {
-      "date": "2026-04-13",
+      "id": 10,
+      "date": "2026-04-10",
       "stockPrice": 8.34,
-      "exchangeRate": 1485.49,
+      "exchangeRate": 1484.91,
       "aiAction": "HOLD",
       "myAction": "PENDING",
       "amount": 0,
       "executed": false,
-      "memo": "[AI 전략] ITC 무역 조사 악재 및 CEO 포함 임원진 릴레이 매도 여파 지속. 환율 1,485원 상승 부담. 불확실성 해소 시까지 강력 관망 권장. (실행 대기중)",
-      "id": 10
+      "memo": "[AI 전략] ITC 무역 조사 개시(중국산 부품 관련)라는 거대 악재 발생. 환율 재상승. $8.30대 진입했으나 불확실성 회피를 위해 강력 관망 권장. (실행 대기중)"
     }
   ]
 }
