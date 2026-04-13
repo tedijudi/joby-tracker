@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T00:00:00Z",
+  "lastUpdated": "2026-04-14T00:00:00Z",
   "portfolio": {
     "totalShares": 119,
     "avgPriceUsd": 11.53,
@@ -113,13 +113,24 @@
     {
       "id": 11,
       "date": "2026-04-13",
-      "stockPrice": 8.34,
-      "exchangeRate": 1485.49,
+      "stockPrice": 8.545,
+      "exchangeRate": 1487.16,
+      "aiAction": "HOLD",
+      "myAction": "HOLD",
+      "amount": 0,
+      "executed": true,
+      "memo": "맨해튼 시범 비행 일정 확정 호재로 주가 반등(+2.45%). 기관 대량 매도 물량 소화 필요. 관망 유지 완료."
+    },
+    {
+      "id": 12,
+      "date": "2026-04-14",
+      "stockPrice": 8.545,
+      "exchangeRate": 1487.16,
       "aiAction": "HOLD",
       "myAction": "PENDING",
       "amount": 0,
       "executed": false,
-      "memo": "[AI 전략] ITC 무역 조사 악재 및 CEO 포함 임원진 릴레이 매도 여파 지속. 환율 1,485원 상승 부담. 불확실성 해소 시까지 강력 관망 권장. (실행 대기중)"
+      "memo": "[AI 전략] 단기 반등 및 환율 상승(1,487원) 부담. 기관 매도 물량 저항 예상. 추격 매수 금지 및 관망 권장. (실행 대기중)"
     }
   ]
 }
